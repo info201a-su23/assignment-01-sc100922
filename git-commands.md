@@ -25,7 +25,7 @@ cd～ /Users/sc102299/Desktop/info
 git add.
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
-git commit- m“”
+git commit- m"updated message”
 
 # (9) Finally, push your changes to GitHub [1 point]
 git push
