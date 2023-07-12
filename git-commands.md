@@ -7,12 +7,16 @@ The purpose of this file is for you to demonstrate your knowledge of working wit
 pwd
 
 # (2) List the files in your current directory [1 point]
+ls
 
 # (3) Change your directory to a folder in which you do work for this class (if you haven't created such a folder, please do so now — perhaps titled "INFO201") [1 point]
+cd
 
 # (4) Clone your assignment repository from GitHub to your machine/computer [1 point]
+git clone [URL]
 
 # (5) Using a *relative path*, change your directory to inside the repository you just cloned [1 point]
+cd + relative path
 
 # (6)  What is the *absolute path* of the image file "covid-example-2.png"? (You can answer the absolute path on your own computer, or the absolute path only within the GitHub repository) [1 points]
 
