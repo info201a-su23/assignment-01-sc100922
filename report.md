@@ -13,6 +13,11 @@ This visualization is a stark illustration of prevalent racial disparities, viol
 **1. Who or what institution produced the visualization? (Hint: refer to "Figure Credits")** <br>
 
 **2. When was it produced?** <br>
+
 **3. Who is the audience for the visualization?** <br>
+
 **4. How might the visualization be interpreted or misinterpreted? What consequences might this interpretation/misinterpretation have?** <br>
+
 **5. How, if at all, does the data visualization represent power or systems?** <br>
+
+😈
