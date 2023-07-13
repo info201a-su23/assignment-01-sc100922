@@ -10,6 +10,7 @@ This map visually maps aspects of the urban environment related to race and chil
 This visualization is a stark illustration of prevalent racial disparities, violence, and injustices of the era。 It portrays a dismissive attitude by laws toward black lives' safety, permitting the ruin of black children's lives by white drivers. Hence, it unmasks the deeply ingrained racial bias against black children in Detroit.
 
 ## Data Viz Biography
+![Data Visualization](./images/2.png)
 **1. Who or what institution produced the visualization? (Hint: refer to "Figure Credits")** <br>
 
 **2. When was it produced?** <br>
